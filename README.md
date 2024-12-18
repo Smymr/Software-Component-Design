@@ -48,7 +48,7 @@ This project was developed as part of the **Software Component Design** course a
 2. Shilimat Tadele (ETS 1170/13)
 3. Solome Getachew (ETS 1185/13)
 4. Sumaya Omar (ETS 1196/13)
-5. Timar Tadele (ETS 1235/13)
+5. Timar Tizazu (ETS 1235/13)
 
-Submitted to: **Mr. Gizate**
+Submitted to: **Mr. Gizatie Desalegn**
 
